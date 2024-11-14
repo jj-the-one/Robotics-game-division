@@ -7,9 +7,9 @@ This repository is for the storage of game ideas, scripts, and more.
 
 <h2>Key learnings</h2>
 <strong>Games Being created</strong><br/>
-      Dodging Dolphin
+      ???????
 
 <strong>Games finished</strong><br/>
-      None
+      SwimmingFish
 <h2>Misc.</h2>
 Link to brainstorm: https://docs.google.com/document/d/1e2bScIrFOnZ99BabnfAwj8PaJMLygHLuvHAgcnyCm_s/edit
