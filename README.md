@@ -7,7 +7,7 @@ This repository is for the storage of game ideas, scripts, and more.
 
 <h2>Key learnings</h2>
 <strong>Games Being created</strong><br/>
-      ???????
+      TugOfWar
 
 <strong>Games finished</strong><br/>
       SwimmingFish
